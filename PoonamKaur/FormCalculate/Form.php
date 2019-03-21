@@ -24,9 +24,7 @@
     <style>
 	body{
 	  background-color:Silver;
-	  background-position: center;
-	  background-repeat: no-repeat;
-	  }
+	 	  }
 	</style>
   </head>
   </html>
